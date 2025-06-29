@@ -11,7 +11,7 @@ This project includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anuj3124/FoodDeliveryWebsite.git
+git clone https://github.com/anuj3124/FoodDeliveryWebsite
 cd FoodDeliveryWebsite
 ```
 
